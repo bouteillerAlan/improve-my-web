@@ -10,6 +10,8 @@
   <img alt="ActiveBlur" src="img/store-img.png" width="1038"/>
 </p>
 
+## THIS PLUGIN IS STILL MAINTAINED
+
 ## Description
 
 Remove 'get proton family' button and improve the placement of the mail label
