@@ -74,6 +74,7 @@ See the following files :
 
 - [done] ~~move the manifest to v3~~
 - [done] ~~test & deploy on chrome~~
+- remove the ´id="dismissible"´ on youtube homepage for avoiding the short feed
 
 ## Want to participate? Have a bug or a request feature?
 
