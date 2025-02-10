@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
   "name": "improveProton",
-  "version": "2.0",
+  "version": "3.0",
 
-  "description": "Remove 'get proton family' button and improve the placement of the mail label",
+  "description": "Remove 'get proton family' button and improve youtube homepage",
 
   "icons": {
     "48": "icons/icon-48.png"
@@ -24,7 +24,7 @@
 
   "content_scripts": [
     {
-      "matches": ["https://*.proton.me/*"],
+      "matches": ["https://*.proton.me/*", "https://*.youtube.com/*"],
       "js": [
         "polyfill/browser-polyfill.min.js",
         "remove-pbtn.js",
