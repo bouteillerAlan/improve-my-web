@@ -27,7 +27,8 @@
       "matches": ["https://*.proton.me/*"],
       "js": [
         "polyfill/browser-polyfill.min.js",
-        "remove-pbtn.js"
+        "remove-pbtn.js",
+        "youtube.js"
       ]
     }
   ]
