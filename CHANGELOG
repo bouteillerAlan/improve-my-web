@@ -8,3 +8,6 @@
   - chrome polyfill
   - move the manifest to v3
   - remove the unnecessary permissions
+## v3/4
+  - add youtube
+  - remove the proton tag
