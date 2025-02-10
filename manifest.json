@@ -27,8 +27,7 @@
       "matches": ["https://*.proton.me/*"],
       "js": [
         "polyfill/browser-polyfill.min.js",
-        "remove-pbtn.js",
-        "move-label.js"
+        "remove-pbtn.js"
       ]
     }
   ]
